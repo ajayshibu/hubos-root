@@ -1,4 +1,4 @@
 HuBoS-Web
 =========
 
-Project on extension for facebook at a local area level
+Directory root of website huboshome.tk
